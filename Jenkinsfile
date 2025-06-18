@@ -9,7 +9,7 @@ stages {
 			echo $(hostname)
 		}
 	}
-	stage('Deploy'){
+	stage('Deploy') {
 		steps {
 			echo "This is second Job"
 			echo $(hostname)
