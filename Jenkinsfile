@@ -15,5 +15,5 @@ stages {
 			echo $(hostname)
 	         	}
 	}
+     }
 }
-
