@@ -1,3 +1,3 @@
 ##################
-Basice Jenkinsfile 
+Basic Jenkinsfile 
 ##################
